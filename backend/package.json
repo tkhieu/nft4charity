@@ -65,7 +65,7 @@
     "rimraf": "^3.0.2",
     "rxjs": "^7.2.0",
     "sofa-api": "^0.11.0",
-    "typeorm": "^0.2.37",
+    "typeorm": "^0.3.7",
     "web3-token": "^0.1.32",
     "winston": "^3.3.3",
     "winston-sentry-log": "^1.0.24"
